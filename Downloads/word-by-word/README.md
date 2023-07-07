@@ -2,6 +2,10 @@
 
 Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight.
 
+Walkthrough-Video ([url](https://www.youtube.com/watch?v=1DSbdtRto18)):
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1DSbdtRto18/0.jpg)](https://www.youtube.com/watch?v=1DSbdtRto18)
+
 "Home" Screen:
 <a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
 
