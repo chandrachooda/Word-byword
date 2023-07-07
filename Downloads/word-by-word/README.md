@@ -2,8 +2,8 @@
 
 Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight. 
 
-[Imgur](https://i.imgur.com/lK36BM2.jpg)
-[Imgur](https://i.imgur.com/jt4z3er.jpg)
+<a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
 
 Just enter your URL, and see the total word count!
 
