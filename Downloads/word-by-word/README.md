@@ -1,8 +1,11 @@
 # Word-by-Word APP
 
-Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight. 
+Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight.
 
+"Home Screen" Screen:
 <a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
+
+"Add URL" Screen:
 <a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
 
 Just enter your URL, and see the total word count!
