@@ -2,7 +2,7 @@
 
 Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight.
 
-"Home Screen" Screen:
+"Home" Screen:
 <a href="https://imgur.com/jt4z3er"><img src="https://i.imgur.com/jt4z3er.jpg" title="source: imgur.com" /></a>
 
 "Add URL" Screen:
@@ -19,7 +19,7 @@ Just enter your URL, and see the total word count!
 
   
 
-#### NOTE: This app is made via MongoDB. To make it run on your own system, add your *MONGO_URI* in the  `config.env` file in the root folder
+#### NOTE: This app is made via MongoDB. To make it run on your own system, add your own *MONGO_URI* in the  `config.env` file in the root folder
 
 ## Get Started
 1. Clone the Git Repo
