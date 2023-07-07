@@ -1,0 +1,33 @@
+# Word-by-Word APP
+
+Word-by-word is the name of the word counter app that I created - which is fast, efficient, and lightweight. 
+
+![Image1]('/assets/Images/1.jpg' "Home")
+![Image2]('/assets/Images/2.jpg' "Add")
+
+Just enter your URL, and see the total word count!
+
+## Functionalities
+- Fast
+- Liking Functionality
+- List of previous URL searches along with word count
+- Delete and Update facility is there for each record
+- Clean and simple UI
+
+  
+
+#### NOTE: This app is made via MongoDB. To make it run on your own system, add your *MONGO_URI* in the  `config.env` file in the root folder
+
+## Get Started
+1. Clone the Git Repo
+2. Modify the ```config.env``` file (as mentioned in the previous section)
+3. Run the following command in the command line (in your root directory)
+                ```npm install```
+```npm start```
+
+## About Me
+
+  Name: Chandrachoodan TK
+  DOB: 
+  Email:
+
